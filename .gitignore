@@ -1,0 +1,13 @@
+env
+.vscode
+
+*.o
+*.so
+*.dylib
+*.a
+*.out
+
+lib
+build
+
+xampl.cpp
